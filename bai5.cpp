@@ -100,7 +100,7 @@ int main(){
 	} while(i!=0);
 	cout<<"-------------------------------"<<endl;
 	TimPS();
-	SapXep();
+	//SapXep();
 	cout<<"Nhan 1 phim bat ky de tiep tuc:"<<endl;
 	getch();
 	cout<<"-------------------------------"<<endl;

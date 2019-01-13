@@ -129,7 +129,7 @@ void ThemNut(AVL *&Cay){
 	int i=1;
 	cout<<"Nhap gia tri. 0:Dung"<<endl;
 	do{
-		cout<<"Nhap gia tri "<<i<<":";
+		cout<<"Nhap gia tri "<<i<<":"<<endl;
 		i++;
 		cin>>gt;
 		if(gt!=0)
